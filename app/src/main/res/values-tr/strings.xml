@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YemekIste</string>
+    <string name="toolbar_Text">Yemek_Siparis</string>
+    <string name="cart">Sepet</string>
+    <string name="foods">Yemekler</string>
+    <string name="kadi">mert_kafali</string>
+</resources>

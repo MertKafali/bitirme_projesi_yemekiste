@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/anasayfaFragment"
+        android:icon="@drawable/cutleryyw"
+        android:title="@string/foods" />
+    <item
+        android:id="@+id/sepetFragment"
+        android:icon="@drawable/sepet_icon_beyaz"
+        android:title="@string/cart" />
+</menu>
